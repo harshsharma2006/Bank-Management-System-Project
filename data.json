@@ -1,0 +1,34 @@
+[
+    {
+        "name": "harsh sharma",
+        "age": 23,
+        "email": "Dharmalsharma@gmail.com",
+        "pin": 3421,
+        "accountNo.": 1358,
+        "balance": 0
+    },
+    {
+        "name": "harsh",
+        "age": 26,
+        "email": "rajjev@gmail.com",
+        "pin": 4567,
+        "accountNo.": "39WtS7*",
+        "balance": 0
+    },
+    {
+        "name": "harsh",
+        "age": 23,
+        "email": "harsh@gmail.com",
+        "pin": 1234,
+        "accountNo.": "l&4t54O",
+        "balance": 0
+    },
+    {
+        "name": "harsh",
+        "age": 23,
+        "email": "rajjev@gmail.com",
+        "pin": "1234",
+        "accountNo.": "7QDK452",
+        "balance": 1000
+    }
+]
